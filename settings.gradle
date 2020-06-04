@@ -1,0 +1,2 @@
+rootProject.name='W7demo'
+include ':app'

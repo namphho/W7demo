@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "989637299025",
+    "firebase_url": "https://w7demo-dcaef.firebaseio.com",
+    "project_id": "w7demo-dcaef",
+    "storage_bucket": "w7demo-dcaef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989637299025:android:d885f6b9afd1621d54a170",
+        "android_client_info": {
+          "package_name": "com.hnam.w7demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989637299025-p4r09fkqltinscvbkv5427tlno3n19ks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq6AxtMiENa1JUobTa0c4R8OarTxTBV3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989637299025-p4r09fkqltinscvbkv5427tlno3n19ks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
